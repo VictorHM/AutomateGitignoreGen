@@ -22,6 +22,6 @@ This software will be useful in a few situations. Usually, projects are configur
 the compilation is a success. But sometimes, there is no cleaning after compilation and there are several intermediate files
 that are not needed. However, in some cases, those have common extensions so they will not be excluded.
 
-So, as said, this is an "academic" work to practice the use of the new std::filesystem of C++14. Feel free to add or impove
+So, as said, this is an "academic" work to practice the use of the new std::filesystem of C++17. Feel free to add or impove
 it and let me know. Regards.
 VHM
